@@ -1,4 +1,4 @@
-Please read this before executing the assignment:-
+Please read this before executing the code:-
 
 Plugins-
 Software: python3(.sh files run python3 files)
